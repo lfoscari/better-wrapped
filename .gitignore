@@ -1,5 +1,6 @@
-# Avoid pushing the OAuth token
+# Avoid pushing the OAuth token or the db
 spotify_oauth
+tracks.shelve
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
